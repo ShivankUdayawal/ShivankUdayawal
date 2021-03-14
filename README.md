@@ -12,7 +12,20 @@
 - 😄 Pronouns: He/him
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm SHIVANK UDAYAWAL</h1>
+<h3 align="center">I am a passionate Data Analyst.</h3>
+
+- 🔭 I’m currently working on **Machine Learning**
+
+- 🌱 I’m currently learning **Natural Language Processing and Neural Network**
+
+- 👯 I’m looking to collaborate on **Machine Learning projects & Data Science Projects**
+
+- 🤝 I’m looking for help with **Time Series**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **shivank.udaywal@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
