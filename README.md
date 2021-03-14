@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Time Series**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivankUdayawal](https://github.com/ShivankUdayawal)
+- 👨‍💻 All of my projects are available at (https://github.com/ShivankUdayawal)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **shivank.udaywal@gmail.com**
 
-- 📄 Know about my experiences [3 internship as Data Analyst](3 internship as Data Analyst)
+- 📄 Know about my experiences (3 internship as Data Analyst)
 
 - ⚡ Fun fact **I think I am funny**
 
