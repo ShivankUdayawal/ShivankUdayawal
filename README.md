@@ -1,7 +1,7 @@
 ### Hi  👋  I'm Shivank Udayawal
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Machine Learning 
 - 🌱 I’m currently learning Natural Language Processing and Neural Network
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shivank.udaywal@gmail.com
 - 😄 Pronouns: He/him
 
--->
+
