@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Time Series**
 
-- 👨‍💻 All of my projects are available at **github.com/ShivankUdayawal**
+- 👨‍💻 All of my projects are available at **https://github.com/ShivankUdayawal**
 
 - 💬 Ask me about **Anything**
 
