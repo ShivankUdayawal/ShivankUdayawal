@@ -29,8 +29,8 @@
 <a href="https://twitter.com/shivankudaywal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivankudaywal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivankudayawal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivankudayawal/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shivankudayawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/shivankudayawal" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shivank.udaywal/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/shivank.udaywal/?hl=en" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqmn0t5kwmqk5donxf0ejeg/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucqmn0t5kwmqk5donxf0ejeg/featured" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivank.udaywal/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/shivank.udaywal/?hl=en" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqmn0T5kwmqK5dONXf0ejeg/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCqmn0T5kwmqK5dONXf0ejeg/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
