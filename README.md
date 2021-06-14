@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVANK UDAYAWAL</h1>
-<h3 align="center">I am a passionate Data Analyst.</h3>
+<h3 align="center">I am a Passionate Data Analyst & Aspiring Data Scientist.</h3>
 
 ![](https://github.com/ShivankUdayawal/ShivankUdayawal/blob/main/advanced-analytics.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="shivankudayawal" /> </p>
