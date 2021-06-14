@@ -24,6 +24,10 @@
 
 - 📄 Know about my experiences **5 internship as Data Analyst**
 
+- 🕵️ Eagerly looking for **ML | Data Science | Business Analyst Internship/Job opportunities **
+
+- 🎯 2021 Goals: **Learn and Contribute more towards Data Science Community**
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
