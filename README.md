@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences **Data Analyst**
 
-- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst Internship/Job opportunities**
+- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst**
 
 - 🎯 2021 Goals: **Learn and Contribute more towards Data Science Community**
 
