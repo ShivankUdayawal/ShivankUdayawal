@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shivank.udaywal@gmail.com**
 
-- 📄 Know about my experiences **5 internship as Data Analyst**
+- 📄 Know about my experiences **Data Analyst**
 
 - 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst Internship/Job opportunities**
 
