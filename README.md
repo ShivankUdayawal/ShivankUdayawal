@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm SHIVANK UDAYAWAL</h1>
-<h3 align="center">I am a Passionate & Experienced Data Analyst & Aspiring Data Scientist</h3>
+<h3 align="center">A Passionate & Experienced Data Analyst, Data Scientist & Artificial Intelligence Developer from India and love to do Coding</h3>
 
-![](https://github.com/ShivankUdayawal/ShivankUdayawal/blob/main/advanced-analytics.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="shivankudayawal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivankudayawal" alt="shivankudayawal" /></a> </p>
 
 - 📚 Currently Pursuing PGD - **Data Science from IMS Proschool**
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Convolutional Neural Network**
 
 - 🌱 I’m currently learning **Natural Language Processing and Neural Network**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects & Data Science Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Data Science & Deep Learning Projects**
 
 - 🤝 I’m looking for help with **Time Series**
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences **Data Analyst**
 
-- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst**
+- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst** | **Deep Learning** | **Convolutional Neural Network**
 
 - 🎯 2021 Goals: **Learn and Contribute more towards Data Science Community**
 
