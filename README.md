@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVANK UDAYAWAL</h1>
-<h3 align="center">A Passionate & Experienced Data Analyst, Data Scientist & Artificial Intelligence Developer from India and love to do Coding</h3>
+<h3 align="center">A Passionate & Experienced Sr. Analyst - Data Scientist & Learner of Artificial Intelligence Developer from India and love to do Coding</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="shivankudayawal" /> </p>
