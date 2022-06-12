@@ -71,9 +71,9 @@
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=shivankudayawal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivankudayawal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivankudayawal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shivankudayawal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivankudayawal&theme=react&hide_border=true&bg_color=0D1117)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivankudayawal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivankudayawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
