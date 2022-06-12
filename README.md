@@ -50,7 +50,6 @@
  
 ## Contact Me 🌐 
 
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivankudaywal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivankudayawal/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/shivankudayawal)
@@ -60,9 +59,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqmn0T5kwmqK5dONXf0ejeg/)
 
 
+## 📊GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivankudayawal&show_icons=true&locale=en&layout=compact" alt="shivankudayawal" /></p>
+![](https://github-readme-stats.vercel.app/api?username=shivankudayawal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivankudayawal&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivankudayawal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivankudayawal&show_icons=true&locale=en" alt="shivankudayawal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivankudayawal&" alt="shivankudayawal" /></p>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivankudayawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
