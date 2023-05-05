@@ -1,10 +1,11 @@
 <h2 align="center"> <b> Hello ! 👋 Welcome to my Profile 👨‍💻❤️ </b><br>
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="shivankudayawal" /> </p>
-
 <br>
+<br>
+<img src="https://github.com/ShivankUdayawal/ShivankUdayawal/blob/main/man.gif" width="400px" align="right">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankudayawal&label=Profile%20views&color=0e75b6&style=flat" alt="shivankudayawal" /> </p>
 
  ## About Me 👨‍💼👨‍💻
  
