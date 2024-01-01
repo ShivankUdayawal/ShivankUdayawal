@@ -11,7 +11,7 @@
  
 - 👨‍💻 I am Shivank, working as **Sr. Analyst - Data Scientist**
      
-- 📚 Currently Pursuing **PGD - Data Science from IMS Proschool**
+- 📚 **PGD - Data Science from Jain (Deemed-to-be University) and PGD - Data Science Certificate from IMS Proschool**
 
 - 🔭 I’m currently working on **Convolutional Neural Network**
 
