@@ -9,17 +9,17 @@
 
  ## About Me 👨‍💼👨‍💻
  
-- 👨‍💻 I am Shivank, working as **Sr. Analyst - Data Scientist**
+- 👨‍💻 I am Shivank, working as **Associate Consultant - Data Scientist**
      
 - 📚 **PGD - Data Science from Jain (Deemed-to-be University) and PGD - Data Science Certificate from IMS Proschool**
 
-- 🔭 I’m currently working on **Convolutional Neural Network**
+- 🔭 I’m currently working on **GenAI: Generative Artificial Intelligence**
 
-- 🌱 I’m currently learning **Neural Network, Google Cloud Platform, AWS and Azure**
+- 🌱 I’m currently learning **Google Cloud Platform, AWS and Azure, GenAI and LLM**
 
-- 👯 I’m looking to collaborate on **Machine Learning, Data Science & Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Computer Vision, GenAI, LLM Projects**
 
-- 🤝 I’m looking for help with **Time Series & Big Data**
+- 🤝 I’m looking for help with **Big Data & GenAI**
 
 - 👨‍💻 All of my projects are available at **https://github.com/ShivankUdayawal**
 
@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences **Data Analyst & Data Scientist**
 
-- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst** | **Deep Learning** | **Convolutional Neural Network**
+- 🕵️ Eagerly looking for **ML**  | **Data Science** | **Business Analyst** | **Deep Learning** | **Convolutional Neural Network** | **Computer Vision** | **GenAI: Generative Artificial Intelligence**
 
 - 🎯 2022 Goals: **Learn and Contribute more towards Data Science Community**
 
